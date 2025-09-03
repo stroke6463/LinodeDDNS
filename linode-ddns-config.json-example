@@ -1,0 +1,7 @@
+{
+  "ApiToken": "YOUR_LINODE_API_TOKEN",
+  "DomainName": "example.com",
+  "RecordName": "home",
+  "Ttl": 300,
+  "OutputLog": "c:\\DDNS\\ddns.log"
+}
